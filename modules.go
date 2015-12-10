@@ -1,8 +1,8 @@
 package main
 
 import (
-	_ "github.com/gliderlabs/registrator/consul"
-	_ "github.com/gliderlabs/registrator/consulkv"
-	_ "github.com/gliderlabs/registrator/etcd"
-	_ "github.com/gliderlabs/registrator/skydns2"
+	_ "github.com/ton31337/registrator/consul"
+	_ "github.com/ton31337/registrator/consulkv"
+	_ "github.com/ton31337/registrator/etcd"
+	_ "github.com/ton31337/registrator/skydns2"
 )
